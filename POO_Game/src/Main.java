@@ -40,6 +40,8 @@ public class Main {
         auto1.avanzar();
         auto1.avanzar();
         //auto1.frenarHastaDetener();
+
+        editado por Angelo Cortes (dev2)
 */
 
 
